@@ -1,0 +1,13 @@
+body {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+
+header .logo {
+  font-family: "Clicker Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
